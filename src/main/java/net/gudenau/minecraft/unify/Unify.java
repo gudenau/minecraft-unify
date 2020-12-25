@@ -35,9 +35,6 @@ public class Unify implements ModInitializer{
             sorted = true;
             UnifyRegistryImpl.INSTANCE.sort();
         });
-        Item fakeIron = new Item(new Item.Settings().group(Items.IRON_INGOT.getGroup()));
-        Registry.register(Registry.ITEM, new Identifier(MOD_ID, "fake_iron"), fakeIron);
-        UnifyRegistry.getItemRegistry().registerResource(new Identifier(MOD_ID, "iron_ingot"), fakeIron);
     }
     
     private void initItemResources(){
