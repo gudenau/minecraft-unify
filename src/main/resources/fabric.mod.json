@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "gud_unify",
+  "version": "${version}",
+
+  "name": "gudUnify",
+  "description": "Unify those resources!",
+  "authors": [
+    "gudenau"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "",
+  "icon": "assets/gud_unify/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.gudenau.minecraft.unify.Unify"
+    ],
+    "client": [
+      "net.gudenau.minecraft.unify.UnifyClient"
+    ]
+  },
+  "mixins": [
+    "gud_unify.mixins.json"
+  ],
+  "accessWidener" : "gud_unify.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  }
+}

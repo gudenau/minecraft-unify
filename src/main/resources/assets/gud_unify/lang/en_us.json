@@ -1,0 +1,45 @@
+{
+  "tooltip.gud_unify.item": "Unify Item Categories:",
+  "tooltip.gud_unify.block": "Unify Block Categories:",
+  "tooltip.gud_unify.fluid": "Unify Fluid Categories:",
+
+  "category.item.gud_unify.iron_ingot": "Iron Ingot",
+  "category.item.gud_unify.gold_ingot": "Gold Ingot",
+  "category.item.gud_unify.netherite_ingot": "Netherite Ingot",
+
+  "category.item.gud_unify.iron_nugget": "Iron Nugget",
+  "category.item.gud_unify.gold_nugget": "Gold Nugget",
+
+  "category.item.gud_unify.redstone_dust": "Redstone Dust",
+
+  "category.item.gud_unify.diamond_gem": "Diamond",
+  "category.item.gud_unify.emerald_gem": "Emerald",
+  "category.item.gud_unify.coal_gem": "Coal",
+  "category.item.gud_unify.quartz_gem": "Quartz",
+  "category.item.gud_unify.lapis_gem": "Lapis",
+
+  "category.block.gud_unify.iron_ore": "Iron Ore",
+  "category.block.gud_unify.gold_ore": "Gold Ore",
+  "category.block.gud_unify.netherite_ore": "Netherite Ore",
+  "category.block.gud_unify.redstone_ore": "Redstone Ore",
+  "category.block.gud_unify.glowstone_ore": "Glowstone Ore",
+  "category.block.gud_unify.diamond_ore": "Diamond Ore",
+  "category.block.gud_unify.emerald_ore": "Emerald Ore",
+  "category.block.gud_unify.coal_ore": "Coal Ore",
+  "category.block.gud_unify.quartz_ore": "Quartz Ore",
+  "category.block.gud_unify.lapis_ore": "Lapis Ore",
+
+  "category.block.gud_unify.iron_block": "Iron Block",
+  "category.block.gud_unify.gold_block": "Gold Block",
+  "category.block.gud_unify.netherite_block": "Netherite Block",
+  "category.block.gud_unify.redstone_block": "Redstone Block",
+  "category.block.gud_unify.glowstone_block": "Glowstone Block",
+  "category.block.gud_unify.diamond_block": "Diamond Block",
+  "category.block.gud_unify.emerald_block": "Emerald Block",
+  "category.block.gud_unify.coal_block": "Coal Block",
+  "category.block.gud_unify.quartz_block": "Quartz Block",
+  "category.block.gud_unify.lapis_block": "Lapis Block",
+
+  "category.fluid.gud_unify.water": "Water",
+  "category.fluid.gud_unify.lava": "Lava"
+}
